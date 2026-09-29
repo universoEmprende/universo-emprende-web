@@ -65,7 +65,7 @@ export default function Home() {
             </h1>
             
             <p className="text-lg sm:text-xl text-gray-300 leading-relaxed mb-8 font-normal">
-              Estructuramos la narrativa de tu marca (StoryBrand), diseñamos tu identidad bajo geometría suiza, desplegamos tu sitio en Google Cloud / Cloudflare y dejamos lista tu preprensa industrial para terreno (EPP, maquinaria y señalética de obra).
+              Estructuramos la narrativa de tu marca (StoryBrand), diseñamos tu identidad bajo geometría suiza, desplegamos tu sitio en Google Cloud / Cloudflare, creamos tus redes B2B y dejamos lista tu producción multimedia (diseño gráfico, edición de video y animación) junto a la preprensa para terreno.
             </p>
 
             {/* BADGE DE ELIMINACIÓN DE RIESGO (HORMOZI) */}
@@ -182,13 +182,13 @@ export default function Home() {
                 <div className="inline-block bg-[#071E3D] text-[#FFD200] font-mono text-xs font-bold px-3 py-1 mb-4">
                   FASE 05
                 </div>
-                <h3 className="text-lg font-bold uppercase mb-3 text-[#071E3D]">Captación Directa & Prospección B2B</h3>
+                <h3 className="text-lg font-bold uppercase mb-3 text-[#071E3D]">Captación, Redes & Contenido Multimedia</h3>
                 <p className="text-gray-600 text-xs leading-relaxed mb-4">
-                  Implementación del embudo de prospección comercial fría/cálida, guiones de contacto directo para tu fuerza de ventas y 3 Reels/videos animados corporativos para destacar en LinkedIn.
+                  Creación e institucionalización de redes sociales B2B (LinkedIn, YouTube, Meta), plantillas de diseño gráfico, edición de video de alta retención, animación (Motion Graphics) y embudo de prospección directa.
                 </p>
               </div>
               <div className="text-[11px] font-bold uppercase tracking-wider text-[#0070C0]">
-                Generación de Pipeline
+                Presencia & Generación de Pipeline
               </div>
             </div>
 
@@ -219,9 +219,9 @@ export default function Home() {
 
             <div className="bg-white border border-[#E5E5E5] border-t-4 border-t-[#0070C0] p-6" style={{ borderRadius: '0px' }}>
               <div className="text-[#FF6600] font-mono font-bold text-xs uppercase mb-2">BONO 02</div>
-              <h4 className="font-bold uppercase text-sm text-[#071E3D] mb-2">Configuración Cloud Enterprise</h4>
+              <h4 className="font-bold uppercase text-sm text-[#071E3D] mb-2">Kit de Redes & Multimedia B2B</h4>
               <p className="text-gray-600 text-xs leading-relaxed">
-                Despliegue de DNS, SSL, correos Google Workspace y reglas de aceleración Cloudflare configuradas por ingenieros.
+                Pack de plantillas para posts, portadas ejecutivas de LinkedIn, animaciones 2D de logo y 3 Reels editados con subtitulado dinámico.
               </p>
             </div>
 
